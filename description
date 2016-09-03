@@ -1,0 +1,40 @@
+TODO cli
+
+todo work on xxx @... until tommorow
+
+todo [tip, now] <context> [[very]* important] 
+
+todo complete <context> (text search)
+
+todo undo [num] 
+
+todo now: hang on commandline until finish
+
+todo tip: come first every few commond line 
+
+display everytime open the command line 
+
+todo [context] alarm @10pm today [everyday] [morning everning]
+
+todo var black=#FFFFFF 
+todo set important=black
+
+TODO log:
+
+vim TODO log ($TODO log?)
+todo log editor=vim
+todo log (open with the editor~)
+
+xxx start at xxx finished at xxx
+
+you can clean your TODO log! (you cannot do it when you add it because it's not something you'd like to do... yea... but you can if you want, I'll consider)
+
+just grab things with @blabla  and they will be sorted! (sounds not so useful...)
+and new todos with the @balbal will fall their with times stamps
+
+todo ihavedown (or just done)
+
+a config page (absolutely)
+
+
+
